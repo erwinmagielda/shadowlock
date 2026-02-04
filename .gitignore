@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+
+# OS / Junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime Artefacts
+.shadowmeta/
+*.enc
+*.log
+*.zip
+
+# Temporary Files
+/tmp/
+*.tmp
+
+# Environment Secrets
+.env.*
+CONFIG_ENC_KEY
